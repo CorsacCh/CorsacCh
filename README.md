@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+fixa como él solo
+
 <!--
 **CorsacCh/CorsacCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
